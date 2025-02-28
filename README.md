@@ -1,2 +1,2 @@
 # Instagram_growth_metrics
-A Powerbi dashboard to visualize Instagram Growth Metrics.
+A Powerbi dashboard to analyze and visualize Instagram Growth Metrics.
